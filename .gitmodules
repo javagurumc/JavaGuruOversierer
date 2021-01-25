@@ -1,0 +1,3 @@
+[submodule "JavaAdditional"]
+	path = JavaAdditional
+	url = https://github.com/AgrisSkesters/JavaAdditional.git
