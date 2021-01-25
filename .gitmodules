@@ -1,3 +1,15 @@
 [submodule "JavaAdditional"]
 	path = JavaAdditional
 	url = https://github.com/AgrisSkesters/JavaAdditional.git
+[submodule "LU-java-additional-tasks"]
+	path = LU-java-additional-tasks
+	url = https://github.com/LinardsLaugalis/LU-java-additional-tasks.git
+[submodule "javaBasicExtra"]
+	path = javaBasicExtra
+	url = https://github.com/krish2b/javaBasicExtra.git
+[submodule "java-training"]
+	path = java-training
+	url = https://github.com/AndSni/java-training.git
+[submodule "JP2_janis_lukasevics_extra"]
+	path = JP2_janis_lukasevics_extra
+	url = https://github.com/traktorsmtz/JP2_janis_lukasevics_extra.git
